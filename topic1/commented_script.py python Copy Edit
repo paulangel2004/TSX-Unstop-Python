@@ -1,0 +1,16 @@
+# This is a Python script that demonstrates comments and basic syntax
+
+# Printing a greeting
+print("Hello from commented script!")
+
+# Declaring variables
+name = "Angel"
+age = 21
+
+# Displaying information
+print("Name:", name)
+print("Age:", age)
+
+# Doing a simple calculation
+result = age + 10  # Add 10 to age
+print("In 10 years, you will be", result)
